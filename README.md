@@ -1068,7 +1068,7 @@ Please ensure your code:
 
 For support, questions, or feature requests:
 
-- 📧 Email: support@growpath.com (placeholder)
+
 - 📖 Documentation: Check `/documentation` page
 - 🆘 Help Center: Visit `/help-center` page
 - 🐛 Issues: Submit on GitHub (if public repo)
