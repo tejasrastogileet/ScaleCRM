@@ -2,7 +2,7 @@
 
 **"Grow Smarter, Sell Faster, Scale Better"**
 
-A modern, feature-rich Customer Relationship Management (CRM) SaaS application built with Laravel 12, designed to help growing businesses manage prospects, clients, sales pipelines, and subscriptions efficiently.
+A modern, feature-rich Customer Relationship Management (CRM) SaaS application built with Laravel 12, designed to help growing businesses manage prospects, clients, sales pipelines, and subscriptions efficiently
 
 
 
