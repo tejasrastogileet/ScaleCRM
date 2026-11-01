@@ -35,7 +35,7 @@ A modern, feature-rich Customer Relationship Management (CRM) SaaS application b
 - [Key Highlights](#-key-highlights)
 - [Documentation](#-documentation)
 - [Contributing](#-contributing)
-- [Hire / Work with me](#-hire--work-with-me)
+
 - [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
